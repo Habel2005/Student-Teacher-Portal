@@ -72,10 +72,10 @@ class Home extends StatelessWidget {
         //   textStyle: (TextStyle(color: Colors.white)), // Text color globally for dropdown items
         // ),
         
-        tabBarTheme: const TabBarTheme(
-          labelColor: Color.fromARGB(255, 172, 138, 200), // Color for the selected tab text
-          unselectedLabelColor: Colors.white, // Color for the unselected tab text
-        ),
+        // tabBarTheme: const TabBarTheme(
+        //   labelColor: Color.fromARGB(255, 172, 138, 200), // Color for the selected tab text
+        //   unselectedLabelColor: Colors.white, // Color for the unselected tab text
+        // ),
 
         inputDecorationTheme: InputDecorationTheme(
           labelStyle: const TextStyle(color: Colors.white), // Label text color
